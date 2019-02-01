@@ -1,0 +1,1 @@
+# mac website blocker
